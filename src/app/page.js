@@ -1,4 +1,3 @@
-'use client';
 import MovieList from '@/components/movielist/MovieList';
 import Authorize from './api/Authorize';
 

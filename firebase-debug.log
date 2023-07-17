@@ -1,0 +1,25 @@
+[debug] [2023-07-17T15:06:49.885Z] ----------------------------------------------------------------------
+[debug] [2023-07-17T15:06:49.888Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\nabee\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-07-17T15:06:49.888Z] CLI Version:   12.4.4
+[debug] [2023-07-17T15:06:49.889Z] Platform:      win32
+[debug] [2023-07-17T15:06:49.889Z] Node Version:  v18.15.0
+[debug] [2023-07-17T15:06:49.890Z] Time:          Mon Jul 17 2023 20:06:49 GMT+0500 (Pakistan Standard Time)
+[debug] [2023-07-17T15:06:49.890Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-07-17T15:06:49.993Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-07-17T15:06:49.994Z] > authorizing via signed-in user (studiosnabeel@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  F:\aSOFTWAREDEVELOPER\1- MICROVERSE PROJECTS\6- MY PROJECTS\learn-firebase\learn-firebase
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
